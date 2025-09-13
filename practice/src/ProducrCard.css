@@ -1,0 +1,20 @@
+.Productname{
+    font-size:30px;
+    font-weight:bold;
+    color:black
+}
+.productprice{
+    font-size:20px;
+    font-weight:bold;
+    color:blue;
+}
+.available{
+    font-size:30px;
+    font-weight:bold;
+    color:red;
+}
+.card{
+    border:2px solid gray;
+    font-size: 20px;
+    color:black
+}
